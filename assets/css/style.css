@@ -1,0 +1,30 @@
+main {
+    background-color: #000; /* Color negro */
+    color: #fff; /* Color del texto blanco para contrastar */
+    
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+#navbar {
+    background: url('./img/carousel1.jpg') center/cover;
+   
+}
+.main{
+    background-color: black;
+}
+#presentation {
+    background-color: black;  
+    color: white;  
+    padding: 20px;  
+}
+
+#presentation h2 {
+    color: white;  
+}
+
+footer {
+    background-color: #00CED1 !important;
+}
